@@ -5,13 +5,13 @@
 # Install
 Download package:
 ```shell
-npm install --save react-native-bepaid
+npm install --save @Goldyukol/react-native-bepaid
 ```
 
 or
 
 ```shell
-yarn add react-native-bepaid
+yarn add @Goldyukol/react-native-bepaid
 ```
 
 # Methods
